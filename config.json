@@ -1,0 +1,11 @@
+{
+  "canais_url": "https://raw.githubusercontent.com/RAPOSO-PAUL/TeamViannaREPO/refs/heads/main/MATRIX/canais.json",
+  "prioridade": ["meuguia.tv", "mi.tv", "guiadetv.com"],
+  "listas_dos_sites": {
+    "meuguia.tv": "sites/meuguia.tv/meuguia.tv.channels.xml",
+    "mi.tv": "sites/mi.tv/mi.tv_br.channels.xml",
+    "guiadetv.com": "sites/guiadetv.com/guiadetv.com.channels.xml"
+  },
+  "horas_para_tras": 3,
+  "horas_para_frente": 36
+}
