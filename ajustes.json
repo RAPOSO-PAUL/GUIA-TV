@@ -1,7 +1,0 @@
-{
-  "_como_usar": "Use so quando o relatorio mostrar um canal SEM guia ou com o guia errado. 'forcar': escolhe o site_id exato em cada site (veja os site_id nas listas do iptv-org/epg). 'ignorar': canais que nao tem guia (ex.: canais 24 horas de uma serie).",
-  "forcar": {
-    "exemplo_chave": { "meuguia.tv": "SPO", "mi.tv": "br#sportv", "guiadetv.com": "sportv" }
-  },
-  "ignorar": []
-}
