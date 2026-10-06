@@ -1,0 +1,13 @@
+{
+  "_como_usar": "Use so quando o relatorio mostrar um canal SEM guia ou com o guia errado. 'forcar': a CHAVE do canal (a do relatorio) e o site_id exato em cada site (os site_id estao nas listas do iptv-org/epg, pasta sites/). 'ignorar': canais que nao tem guia (ex.: canais 24 horas de uma serie). HD1, HD2, HD3, HD4 do mesmo canal ja sao UMA chave so: o ajuste vale para todos.",
+  "forcar": {
+    "premiere":  { "meuguia.tv": "121", "mi.tv": "br#premiere-clubes", "guiadetv.com": "premiere-fc" },
+    "premiere2": { "mi.tv": "br#premiere-2", "guiadetv.com": "premiere-2" },
+    "espn2":     { "guiadetv.com": "espn-2" },
+    "espn3":     { "guiadetv.com": "espn-3" },
+    "espn4":     { "guiadetv.com": "espn-4" },
+    "espn5":     { "guiadetv.com": "espn-5" },
+    "espn6":     { "guiadetv.com": "espn-6" }
+  },
+  "ignorar": ["Todo Mundo Odeia o Chris"]
+}
