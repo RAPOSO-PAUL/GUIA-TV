@@ -1,0 +1,7 @@
+{
+  "_como_usar": "Use quando o relatorio.md listar um time em 'Times sem escudo'. Em 'escudos', o nome do time EXATAMENTE como aparece no relatorio e o link da imagem (PNG de preferencia, fundo transparente). Em 'apelidos', quando o guia escreve o nome diferente do ESPN: 'nome no guia': 'nome no ESPN' (ex.: o escudo existe mas o nome nao bate). Maiusculas e acentos nao importam.",
+  "escudos": {
+  },
+  "apelidos": {
+  }
+}
