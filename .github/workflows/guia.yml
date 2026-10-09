@@ -1,0 +1,93 @@
+name: Atualizar guia
+
+on:
+  schedule:
+    # 05:00, 13:00 e 20:00 de Brasilia (o GitHub usa UTC). Todas no MESMO
+    # dia em UTC e em Brasilia: entre 21h e meia-noite o "hoje" do GitHub ja
+    # e amanha, e o site mandava o dia seguinte (sumia o programa de agora).
+    - cron: "0 8,16,23 * * *"
+  workflow_dispatch: {}     # botao "Run workflow" para rodar na hora
+
+permissions:
+  contents: write
+
+concurrency:
+  group: guia
+  cancel-in-progress: false
+
+jobs:
+  guia:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Baixar o iptv-org/epg (extratores dos sites)
+        run: |
+          git clone --depth 1 https://github.com/iptv-org/epg.git epg
+          cd epg
+          npm install --no-audit --no-fund
+
+      # As listas novas vao para uma pasta SEPARADA e sao SOMADAS as do
+      # iptv-org (antes elas SUBSTITUIAM: quando um site falhava, a lista dele
+      # ficava pela metade — foi assim que o ESPN 2 a 6 do guiadetv sumiu)
+      - name: Atualizar as listas de canais dos sites (canais novos, nomes novos)
+        run: |
+          mkdir -p trabalho/listas
+          cd epg
+          npm run channels:parse --- --config=sites/meuguia.tv/meuguia.tv.config.js \
+            --output=../trabalho/listas/meuguia.tv.channels.xml || true
+          npm run channels:parse --- --config=sites/mi.tv/mi.tv.config.js --set=country:br \
+            --output=../trabalho/listas/mi.tv.channels.xml || true
+          npm run channels:parse --- --config=sites/guiadetv.com/guiadetv.com.config.js \
+            --output=../trabalho/listas/guiadetv.com.channels.xml || true
+
+      - name: "Passo 1: casar os canais do app com os sites"
+        run: python3 scripts/montar_canais.py
+
+      - name: "Passo 2: buscar a programacao (os tres sites)"
+        # devagar de proposito: 2 conexoes e meio segundo entre pedidos
+        # (o guiadetv fica de fora daqui: ele tem extrator proprio, abaixo)
+        run: |
+          grep -v 'site="guiadetv.com"' trabalho/canais.channels.xml > trabalho/canais_iptv.channels.xml
+          cd epg
+          npm run grab --- --channels=../trabalho/canais_iptv.channels.xml \
+            --output="../trabalho/{site}.xml" --days=2 \
+            --maxConnections=2 --delay=500 --timeout=30000 || true
+
+      # o extrator do iptv-org parou de ler o guiadetv (layout novo); este
+      # le a pagina nova direto (~8 dias por canal)
+      - name: "Passo 2b: guiadetv (extrator proprio)"
+        run: python3 scripts/guiadetv.py || true
+
+      - name: Quantos programas cada site mandou
+        run: |
+          for s in meuguia.tv mi.tv guiadetv.com; do
+            n=$(grep -c "<programme" "trabalho/$s.xml" 2>/dev/null); echo "$s: ${n:-0} programas"
+          done
+        continue-on-error: true
+
+      - name: "Passo 3: juntar no guia.json"
+        run: python3 scripts/juntar_guia.py
+
+      # a grade de FUTEBOL da aba FUTEBOL do app: os jogos ao vivo de hoje e
+      # amanha, com os canais e os escudos (escudos.json manda nos escudos)
+      - name: "Passo 4: jogos de futebol (jogos.json)"
+        run: python3 scripts/jogos.py || true
+
+      - name: Publicar
+        run: |
+          git config user.name "guia-bot"
+          git config user.email "guia-bot@users.noreply.github.com"
+          git add guia.json relatorio.md
+          [ -f jogos.json ] && git add jogos.json
+          git diff --cached --quiet && echo "nada mudou" || git commit -m "guia $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
