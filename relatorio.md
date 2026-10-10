@@ -1,11 +1,11 @@
 # Relatório do guia
 
-Gerado em 10/10/2026 12:05 (Brasília). 23 de 34 canais com guia.
+Gerado em 10/10/2026 12:22 (Brasília). 23 de 34 canais com guia.
 
 | Chave | Nome no app | Fonte | Situação |
 |---|---|---|---|
 | `band` | BAND HD1, BAND HD2, BAND HD3 | mi.tv | 33 programas, 25.0 h das próximas 24 h |
-| `bandrj` | BAND RJ HD | mi.tv | 31 programas, 25.0 h das próximas 24 h |
+| `bandrj` | BAND RJ HD | mi.tv | 32 programas, 25.0 h das próximas 24 h |
 | `cazetv` | CAZE TV HD, CAZE TV HD1, CAZE TV HD10, CAZE TV HD2 (+7) | — | SEM GUIA (nenhum site tem este canal) |
 | `espn` | ESPN 1 HD1, ESPN 1 HD2, ESPN 1 HD3, ESPN 1 HD4 | meuguia.tv | 29 programas, 24.0 h das próximas 24 h |
 | `espn2` | ESPN 2 HD1, ESPN 2 HD2, ESPN 2 HD3, ESPN 2 HD4 | meuguia.tv | 19 programas, 24.0 h das próximas 24 h |
@@ -19,7 +19,7 @@ Gerado em 10/10/2026 12:05 (Brasília). 23 de 34 canais com guia.
 | `globorj` | GLOBO RJ HD1, GLOBO RJ HD2, GLOBO RJ HD3, GLOBO RJ HD4 | mi.tv | 36 programas, 25.0 h das próximas 24 h |
 | `globors` | GLOBO RS HD1, GLOBO RS HD2, GLOBO RS HD3, GLOBO RS HD4 | — | SEM GUIA (nenhum site tem este canal) |
 | `globosp` | GLOBO SP HD1, GLOBO SP HD2, GLOBO SP HD3, GLOBO SP HD4 | mi.tv | 36 programas, 25.0 h das próximas 24 h |
-| `premiere` | PREMIERE HD1, PREMIERE HD2, PREMIERE HD3, PREMIERE HD4 | mi.tv | 62 programas, 24.5 h das próximas 24 h |
+| `premiere` | PREMIERE HD1, PREMIERE HD2, PREMIERE HD3, PREMIERE HD4 | mi.tv | 63 programas, 24.5 h das próximas 24 h |
 | `premiere2` | PREMIERE 2 HD1, PREMIERE 2 HD2, PREMIERE 2 HD3, PREMIERE 2 HD4 | mi.tv | 4 programas, 25.0 h das próximas 24 h |
 | `premiere3` | PREMIERE 3 HD1, PREMIERE 3 HD2, PREMIERE 3 HD3, PREMIERE 3 HD4 | mi.tv | 4 programas, 25.0 h das próximas 24 h |
 | `premiere4` | PREMIERE 4 HD1, PREMIERE 4 HD2, PREMIERE 4 HD3, PREMIERE 4 HD4 | mi.tv | 6 programas, 25.0 h das próximas 24 h |
