@@ -1,25 +1,25 @@
 # Relatório do guia
 
-Gerado em 10/10/2026 11:41 (Brasília). 23 de 34 canais com guia.
+Gerado em 10/10/2026 12:05 (Brasília). 23 de 34 canais com guia.
 
 | Chave | Nome no app | Fonte | Situação |
 |---|---|---|---|
 | `band` | BAND HD1, BAND HD2, BAND HD3 | mi.tv | 33 programas, 25.0 h das próximas 24 h |
-| `bandrj` | BAND RJ HD | mi.tv | 30 programas, 25.0 h das próximas 24 h |
+| `bandrj` | BAND RJ HD | mi.tv | 31 programas, 25.0 h das próximas 24 h |
 | `cazetv` | CAZE TV HD, CAZE TV HD1, CAZE TV HD10, CAZE TV HD2 (+7) | — | SEM GUIA (nenhum site tem este canal) |
 | `espn` | ESPN 1 HD1, ESPN 1 HD2, ESPN 1 HD3, ESPN 1 HD4 | meuguia.tv | 29 programas, 24.0 h das próximas 24 h |
 | `espn2` | ESPN 2 HD1, ESPN 2 HD2, ESPN 2 HD3, ESPN 2 HD4 | meuguia.tv | 19 programas, 24.0 h das próximas 24 h |
-| `espn3` | ESPN 3 HD1, ESPN 3 HD2, ESPN 3 HD3, ESPN 3 HD4 | meuguia.tv | 23 programas, 24.0 h das próximas 24 h |
+| `espn3` | ESPN 3 HD1, ESPN 3 HD2, ESPN 3 HD3, ESPN 3 HD4 | meuguia.tv | 22 programas, 24.0 h das próximas 24 h |
 | `espn4` | ESPN 4 HD1, ESPN 4 HD2, ESPN 4 HD3, ESPN 4 HD4 | meuguia.tv | 22 programas, 24.0 h das próximas 24 h |
 | `espn5` | ESPN 5 HD1, ESPN 5 HD2, ESPN 5 HD3, ESPN 5 HD4 | meuguia.tv | 21 programas, 24.0 h das próximas 24 h |
-| `espn6` | ESPN 6 HD1, ESPN 6 HD2, ESPN 6 HD3, ESPN 6 HD4 | guiadetv.com | 21 programas, 24.0 h das próximas 24 h |
+| `espn6` | ESPN 6 HD1, ESPN 6 HD2, ESPN 6 HD3, ESPN 6 HD4 | guiadetv.com | 20 programas, 24.0 h das próximas 24 h |
 | `globodf` | GLOBO DF HD1, GLOBO DF HD2, GLOBO DF HD3 | — | SEM GUIA (nenhum site tem este canal) |
 | `globoes` | GLOBO ES HD1, GLOBO ES HD2, GLOBO ES HD3 | — | SEM GUIA (nenhum site tem este canal) |
 | `globomg` | GLOBO MG HD1, GLOBO MG HD2, GLOBO MG HD3, GLOBO MG HD4 | — | SEM GUIA (nenhum site tem este canal) |
-| `globorj` | GLOBO RJ HD1, GLOBO RJ HD2, GLOBO RJ HD3, GLOBO RJ HD4 | mi.tv | 37 programas, 25.0 h das próximas 24 h |
+| `globorj` | GLOBO RJ HD1, GLOBO RJ HD2, GLOBO RJ HD3, GLOBO RJ HD4 | mi.tv | 36 programas, 25.0 h das próximas 24 h |
 | `globors` | GLOBO RS HD1, GLOBO RS HD2, GLOBO RS HD3, GLOBO RS HD4 | — | SEM GUIA (nenhum site tem este canal) |
-| `globosp` | GLOBO SP HD1, GLOBO SP HD2, GLOBO SP HD3, GLOBO SP HD4 | mi.tv | 37 programas, 25.0 h das próximas 24 h |
-| `premiere` | PREMIERE HD1, PREMIERE HD2, PREMIERE HD3, PREMIERE HD4 | mi.tv | 63 programas, 24.5 h das próximas 24 h |
+| `globosp` | GLOBO SP HD1, GLOBO SP HD2, GLOBO SP HD3, GLOBO SP HD4 | mi.tv | 36 programas, 25.0 h das próximas 24 h |
+| `premiere` | PREMIERE HD1, PREMIERE HD2, PREMIERE HD3, PREMIERE HD4 | mi.tv | 62 programas, 24.5 h das próximas 24 h |
 | `premiere2` | PREMIERE 2 HD1, PREMIERE 2 HD2, PREMIERE 2 HD3, PREMIERE 2 HD4 | mi.tv | 4 programas, 25.0 h das próximas 24 h |
 | `premiere3` | PREMIERE 3 HD1, PREMIERE 3 HD2, PREMIERE 3 HD3, PREMIERE 3 HD4 | mi.tv | 4 programas, 25.0 h das próximas 24 h |
 | `premiere4` | PREMIERE 4 HD1, PREMIERE 4 HD2, PREMIERE 4 HD3, PREMIERE 4 HD4 | mi.tv | 6 programas, 25.0 h das próximas 24 h |
@@ -30,7 +30,7 @@ Gerado em 10/10/2026 11:41 (Brasília). 23 de 34 canais com guia.
 | `recordmg` | RECORD MG HD1, RECORD MG HD2 | — | SEM GUIA (nenhum site tem este canal) |
 | `recordrj` | RECORD RJ HD1, RECORD RJ HD2 | — | SEM GUIA (nenhum site tem este canal) |
 | `recordsp` | RECORD SP HD1, RECORD SP HD2, RECORD SP HD3, RECORD SP HD4 | — | SEM GUIA (nenhum site tem este canal) |
-| `redetv` | REDETV HD | meuguia.tv | 39 programas, 24.0 h das próximas 24 h |
+| `redetv` | REDETV HD | meuguia.tv | 38 programas, 24.0 h das próximas 24 h |
 | `redetv2` | REDETV HD 2 | — | SEM GUIA (nenhum site tem este canal) |
 | `redetv3` | REDETV HD 3 | — | SEM GUIA (nenhum site tem este canal) |
 | `sbtsp` | SBT SP HD1, SBT SP HD2, SBT SP HD3, SBT SP HD4 | — | SEM GUIA (nenhum site tem este canal) |
@@ -43,11 +43,10 @@ Canal SEM GUIA: coloque `"epg": "nome do canal no site"` no canais.json, ou forc
 
 ## Jogos de futebol (jogos.json)
 
-45 jogo(s) ao vivo de hoje e amanhã (site jogosdehojenatv: 128 jogo(s) lido(s)).
+44 jogo(s) ao vivo de hoje e amanhã (site jogosdehojenatv: 128 jogo(s) lido(s)).
 
 | Quando (Brasília) | Jogo | Campeonato | Canais | Escudos |
 |---|---|---|---|---|
-| 10/10 10:00 | Samsunspor x Trabzonspor | Campeonato Turco | espn3 | ok |
 | 10/10 10:30 | Augsburg x Bayern München | Campeonato Alemão | sportv | ok |
 | 10/10 11:00 | Aston Villa x Brentford | Premier League | espn | ok |
 | 10/10 11:00 | Chelsea x AFC Bournemouth | Premier League | cazetv | ok |
