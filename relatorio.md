@@ -1,6 +1,6 @@
 # Relatório do guia
 
-Gerado em 13/10/2026 15:46 (Brasília). 30 de 51 canais com guia.
+Gerado em 13/10/2026 15:58 (Brasília). 30 de 43 canais com guia.
 
 | Chave | Nome no app | Fonte | Situação |
 |---|---|---|---|
@@ -10,7 +10,7 @@ Gerado em 13/10/2026 15:46 (Brasília). 30 de 51 canais com guia.
 | `espn` | ESPN 1 HD1, ESPN 1 HD2, ESPN 1 HD3, ESPN 1 HD4 | mi.tv | 27 programas, 25.0 h das próximas 24 h |
 | `espn2` | ESPN 2 HD1, ESPN 2 HD2, ESPN 2 HD3, ESPN 2 HD4 | meuguia.tv | 21 programas, 24.0 h das próximas 24 h |
 | `espn3` | ESPN 3 HD1, ESPN 3 HD2, ESPN 3 HD3, ESPN 3 HD4 | meuguia.tv | 22 programas, 24.0 h das próximas 24 h |
-| `espn4` | ESPN 4 HD1, ESPN 4 HD2, ESPN 4 HD3, ESPN 4 HD4 | meuguia.tv | 26 programas, 24.0 h das próximas 24 h |
+| `espn4` | ESPN 4 HD1, ESPN 4 HD2, ESPN 4 HD3, ESPN 4 HD4 | meuguia.tv | 25 programas, 24.0 h das próximas 24 h |
 | `espn5` | ESPN 5 HD1, ESPN 5 HD2, ESPN 5 HD3, ESPN 5 HD4 | meuguia.tv | 19 programas, 24.0 h das próximas 24 h |
 | `espn6` | ESPN 6 HD1, ESPN 6 HD2, ESPN 6 HD3, ESPN 6 HD4 | guiadetv.com | 24 programas, 24.0 h das próximas 24 h |
 | `globodf` | GLOBO DF HD1, GLOBO DF HD2, GLOBO DF HD3 | — | SEM GUIA (nenhum site tem este canal) |
@@ -36,12 +36,8 @@ Gerado em 13/10/2026 15:46 (Brasília). 30 de 51 canais com guia.
 | `redetv2` | REDETV HD 2 | — | SEM GUIA (nenhum site tem este canal) |
 | `redetv3` | REDETV HD 3 | — | SEM GUIA (nenhum site tem este canal) |
 | `sbtsp` | SBT SP HD1, SBT SP HD2, SBT SP HD3, SBT SP HD4 | — | SEM GUIA (nenhum site tem este canal) |
-| `space` | SPACE HD 1 | mi.tv | 24 programas, 25.0 h das próximas 24 h |
-| `space2` | SPACE HD 2 | — | SEM GUIA (nenhum site tem este canal) |
-| `space3` | SPACE HD 3 | — | SEM GUIA (nenhum site tem este canal) |
-| `space4` | SPACE HD 4 | — | SEM GUIA (nenhum site tem este canal) |
-| `space5` | SPACE HD 5 | — | SEM GUIA (nenhum site tem este canal) |
-| `sportv` | SPORTV HD1, SPORTV HD2, SPORTV HD3, SPORTV HD4 | meuguia.tv | 29 programas, 24.0 h das próximas 24 h |
+| `space` | SPACE HD1, SPACE HD2, SPACE HD3, SPACE HD4 (+1) | mi.tv | 24 programas, 25.0 h das próximas 24 h |
+| `sportv` | SPORTV HD1, SPORTV HD2, SPORTV HD3, SPORTV HD4 | meuguia.tv | 28 programas, 24.0 h das próximas 24 h |
 | `sportv2` | SPORTV 2 HD1, SPORTV 2 HD2, SPORTV 2 HD3, SPORTV 2 HD4 | mi.tv | 20 programas, 25.0 h das próximas 24 h |
 | `sportv3` | SPORTV 3 HD1, SPORTV 3 HD2, SPORTV 3 HD3, SPORTV 3 HD4 | mi.tv | 25 programas, 25.0 h das próximas 24 h |
 | `telecineaction` | TELECINE ACTION HD1, TELECINE ACTION HD2, TELECINE ACTION HD3, TELECINE ACTION HD4 | mi.tv | 23 programas, 25.0 h das próximas 24 h |
@@ -50,22 +46,17 @@ Gerado em 13/10/2026 15:46 (Brasília). 30 de 51 canais com guia.
 | `telecinepipoca` | TELECINE PIPOCA HD1, TELECINE PIPOCA HD2, TELECINE PIPOCA HD3, TELECINE PIPOCA HD4 | mi.tv | 22 programas, 25.0 h das próximas 24 h |
 | `telecinepremium` | TELECINE PREMIUM HD1, TELECINE PREMIUM HD2, TELECINE PREMIUM HD3, TELECINE PREMIUM HD4 | mi.tv | 21 programas, 25.0 h das próximas 24 h |
 | `telecinetouch` | TELECINE TOUCH HD1, TELECINE TOUCH HD2, TELECINE TOUCH HD3, TELECINE TOUCH HD4 | mi.tv | 22 programas, 25.0 h das próximas 24 h |
-| `tnt` | TNT HD 1 | mi.tv | 25 programas, 25.0 h das próximas 24 h |
-| `tnt2` | TNT HD 2 | — | SEM GUIA (nenhum site tem este canal) |
-| `tnt3` | TNT HD 3 | — | SEM GUIA (nenhum site tem este canal) |
-| `tnt4` | TNT HD 4 | — | SEM GUIA (nenhum site tem este canal) |
-| `tnt5` | TNT HD 5 | — | SEM GUIA (nenhum site tem este canal) |
+| `tnt` | TNT HD1, TNT HD2, TNT HD3, TNT HD4 (+1) | mi.tv | 25 programas, 25.0 h das próximas 24 h |
 
 Canal SEM GUIA: coloque `"epg": "nome do canal no site"` no canais.json, ou force o site_id no ajustes.json.
 
 ## Jogos de futebol (jogos.json)
 
-29 jogo(s) ao vivo de hoje e amanhã (site jogosdehojenatv: 62 jogo(s) lido(s)).
+28 jogo(s) ao vivo de hoje e amanhã (site jogosdehojenatv: 62 jogo(s) lido(s)).
 
 | Quando (Brasília) | Jogo | Campeonato | Canais | Escudos |
 |---|---|---|---|---|
 | 13/10 13:45 | Lens x Sporting | UEFA Champions League | tnt, hbomax | ok |
-| 13/10 14:00 | Suécia x Lithuania | Copa do Mundo Qualificação Feminino | espn2 | falta Lithuania |
 | 13/10 15:00 | Palmeiras x Atlético-MG | Campeonato Brasileiro Sub-17 | sportv | ok |
 | 13/10 15:30 | Inglaterra x Grécia | Copa do Mundo Qualificação Feminino | espn | ok |
 | 13/10 16:00 | Arsenal FC x Lille | UEFA Champions League | hbomax | ok |
@@ -101,4 +92,3 @@ Canal SEM GUIA: coloque `"epg": "nome do canal no site"` no canais.json, ou forc
 **Times sem escudo** — coloque no `escudos.json` (`"escudos": {"Nome do time": "https://.../escudo.png"}`):
 
 - Bodø / Glimt
-- Lithuania
