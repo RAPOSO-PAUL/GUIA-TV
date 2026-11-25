@@ -1,141 +1,143 @@
 # Relatório do guia
 
-Gerado em 24/11/2026 16:17 (Brasília). 71 de 91 canais com guia.
+Gerado em 25/11/2026 02:12 (Brasília). 71 de 91 canais com guia.
 
 | Chave | Nome no app | Fonte | Situação |
 |---|---|---|---|
 | `adultswim` | Adult Swim HD1, Adult Swim HD2, Adult Swim HD3, Adult Swim HD4 (+1) | — | SEM GUIA (nenhum site tem este canal) |
-| `ae` | A&E HD1, A&E HD2, A&E HD3, A&E HD4 (+2) | mi.tv | 39 programas, 25.0 h das próximas 24 h |
+| `ae` | A&E HD1, A&E HD2, A&E HD3, A&E HD4 (+2) | meuguia.tv | 41 programas, 24.0 h das próximas 24 h |
 | `afazenda18` | A Fazenda 18 HD1, A Fazenda 18 HD2, A Fazenda 18 HD3 | — | SEM GUIA (nenhum site tem este canal) |
 | `afazenda182` | A Fazenda 18 2 HD1, A Fazenda 18 2 HD2, A Fazenda 18 2 HD3 | — | SEM GUIA (nenhum site tem este canal) |
 | `afazenda183` | A Fazenda 18 3 HD1, A Fazenda 18 3 HD2, A Fazenda 18 3 HD3 | — | SEM GUIA (nenhum site tem este canal) |
-| `amc` | AMC HD1, AMC HD2, AMC HD3, AMC HD4 (+1) | mi.tv | 20 programas, 25.0 h das próximas 24 h |
-| `animalplanet` | Animal Planet HD1, Animal Planet HD2, Animal Planet HD3, Animal Planet HD4 (+2) | mi.tv | 43 programas, 25.0 h das próximas 24 h |
+| `amc` | AMC HD1, AMC HD2, AMC HD3, AMC HD4 (+1) | mi.tv | 19 programas, 24.8 h das próximas 24 h |
+| `animalplanet` | Animal Planet HD1, Animal Planet HD2, Animal Planet HD3, Animal Planet HD4 (+2) | meuguia.tv | 44 programas, 24.0 h das próximas 24 h |
 | `arte1` | ARTE1 HD1, ARTE1 HD2, ARTE1 HD3 | — | SEM GUIA (nenhum site tem este canal) |
-| `axn` | AXN HD1, AXN HD2, AXN HD3, AXN HD4 (+1) | mi.tv | 20 programas, 25.0 h das próximas 24 h |
-| `band` | BAND HD1, BAND HD2, BAND HD3, BAND HD4 (+2) | meuguia.tv | 34 programas, 24.0 h das próximas 24 h |
-| `bandnews` | Band News HD1, Band News HD2, Band News HD3, Band News HD4 (+2) | mi.tv | 35 programas, 24.5 h das próximas 24 h |
-| `bandrj` | BAND RJ HD, BAND RJ HD2 | mi.tv | 39 programas, 24.0 h das próximas 24 h |
-| `bis` | BIS HD1, BIS HD2, BIS HD3 | mi.tv | 52 programas, 25.0 h das próximas 24 h |
-| `canalbrasil` | CANAL BRASIL HD1, CANAL BRASIL HD2, CANAL BRASIL HD3 | mi.tv | 53 programas, 25.0 h das próximas 24 h |
+| `axn` | AXN HD1, AXN HD2, AXN HD3, AXN HD4 (+1) | meuguia.tv | 19 programas, 24.0 h das próximas 24 h |
+| `band` | BAND HD1, BAND HD2, BAND HD3, BAND HD4 (+2) | meuguia.tv | 39 programas, 24.0 h das próximas 24 h |
+| `bandnews` | Band News HD1, Band News HD2, Band News HD3, Band News HD4 (+2) | meuguia.tv | 40 programas, 24.0 h das próximas 24 h |
+| `bandrj` | BAND RJ HD, BAND RJ HD2 | mi.tv | 38 programas, 23.2 h das próximas 24 h |
+| `bis` | BIS HD1, BIS HD2, BIS HD3 | meuguia.tv | 53 programas, 24.0 h das próximas 24 h |
+| `canalbrasil` | CANAL BRASIL HD1, CANAL BRASIL HD2, CANAL BRASIL HD3 | meuguia.tv | 56 programas, 24.0 h das próximas 24 h |
 | `cartoonetwork` | CartooNetwork HD1, CartooNetwork HD2, CartooNetwork HD3, CartooNetwork HD4 (+2) | — | SEM GUIA (nenhum site tem este canal) |
-| `cartoonito` | Cartoonito HD1, Cartoonito HD2, Cartoonito HD3, Cartoonito HD4 (+2) | mi.tv | 80 programas, 25.0 h das próximas 24 h |
+| `cartoonito` | Cartoonito HD1, Cartoonito HD2, Cartoonito HD3, Cartoonito HD4 (+2) | guiadetv.com | 261 programas, 24.0 h das próximas 24 h |
 | `cazetv` | CAZE TV HD, CAZE TV HD1, CAZE TV HD10, CAZE TV HD11 (+15) | — | SEM GUIA (nenhum site tem este canal) |
-| `cinemax` | CINEMAX HD1, CINEMAX HD2, CINEMAX HD3, CINEMAX HD4 (+1) | mi.tv | 25 programas, 25.0 h das próximas 24 h |
-| `cnnbrasil` | CNN Brasil HD1, CNN Brasil HD2, CNN Brasil HD3, CNN Brasil HD4 (+2) | mi.tv | 30 programas, 25.0 h das próximas 24 h |
-| `discoverychannel` | Discovery Channel HD1, Discovery Channel HD2, Discovery Channel HD3, Discovery Channel HD4 (+2) | meuguia.tv | 27 programas, 24.0 h das próximas 24 h |
-| `discoveryhomehealth` | Discovery Home & Health HD1, Discovery Home & Health HD2, Discovery Home & Health HD3, Discovery Home & Health HD4 (+2) | mi.tv | 32 programas, 25.0 h das próximas 24 h |
+| `cinemax` | CINEMAX HD1, CINEMAX HD2, CINEMAX HD3, CINEMAX HD4 (+1) | meuguia.tv | 23 programas, 24.0 h das próximas 24 h |
+| `cnnbrasil` | CNN Brasil HD1, CNN Brasil HD2, CNN Brasil HD3, CNN Brasil HD4 (+2) | mi.tv | 30 programas, 24.7 h das próximas 24 h |
+| `discoverychannel` | Discovery Channel HD1, Discovery Channel HD2, Discovery Channel HD3, Discovery Channel HD4 (+2) | meuguia.tv | 30 programas, 24.0 h das próximas 24 h |
+| `discoveryhomehealth` | Discovery Home & Health HD1, Discovery Home & Health HD2, Discovery Home & Health HD3, Discovery Home & Health HD4 (+2) | meuguia.tv | 32 programas, 24.0 h das próximas 24 h |
 | `discoveryid` | Discovery ID HD1, Discovery ID HD2, Discovery ID HD3, Discovery ID HD4 (+3) | — | SEM GUIA (nenhum site tem este canal) |
-| `discoverykids` | Discovery Kids HD1, Discovery Kids HD2, Discovery Kids HD3, Discovery Kids HD4 (+2) | mi.tv | 102 programas, 25.0 h das próximas 24 h |
-| `discoveryscience` | Discovery Science HD1, Discovery Science HD2, Discovery Science HD3, Discovery Science HD4 (+2) | mi.tv | 47 programas, 25.0 h das próximas 24 h |
-| `discoverytheater` | Discovery Theater HD1, Discovery Theater HD2, Discovery Theater HD3, Discovery Theater HD4 (+2) | mi.tv | 40 programas, 25.0 h das próximas 24 h |
-| `discoveryturbo` | Discovery Turbo HD1, Discovery Turbo HD2, Discovery Turbo HD3, Discovery Turbo HD4 (+2) | mi.tv | 44 programas, 25.0 h das próximas 24 h |
-| `discoveryworld` | Discovery World HD1, Discovery World HD2, Discovery World HD3, Discovery World HD4 (+3) | mi.tv | 80 programas, 25.0 h das próximas 24 h |
-| `espn` | ESPN 1 HD1, ESPN 1 HD2, ESPN 1 HD3, ESPN 1 HD4 (+2) | mi.tv | 30 programas, 24.5 h das próximas 24 h |
-| `espn2` | ESPN 2 HD1, ESPN 2 HD2, ESPN 2 HD3, ESPN 2 HD4 (+2) | meuguia.tv | 25 programas, 24.0 h das próximas 24 h |
-| `espn3` | ESPN 3 HD1, ESPN 3 HD2, ESPN 3 HD3, ESPN 3 HD4 (+2) | meuguia.tv | 21 programas, 24.0 h das próximas 24 h |
-| `espn4` | ESPN 4 HD1, ESPN 4 HD2, ESPN 4 HD3, ESPN 4 HD4 (+2) | meuguia.tv | 24 programas, 24.0 h das próximas 24 h |
-| `espn5` | ESPN 5 HD1, ESPN 5 HD2, ESPN 5 HD3, ESPN 5 HD4 (+2) | meuguia.tv | 20 programas, 24.0 h das próximas 24 h |
+| `discoverykids` | Discovery Kids HD1, Discovery Kids HD2, Discovery Kids HD3, Discovery Kids HD4 (+2) | meuguia.tv | 101 programas, 24.0 h das próximas 24 h |
+| `discoveryscience` | Discovery Science HD1, Discovery Science HD2, Discovery Science HD3, Discovery Science HD4 (+2) | meuguia.tv | 46 programas, 24.0 h das próximas 24 h |
+| `discoverytheater` | Discovery Theater HD1, Discovery Theater HD2, Discovery Theater HD3, Discovery Theater HD4 (+2) | meuguia.tv | 38 programas, 24.0 h das próximas 24 h |
+| `discoveryturbo` | Discovery Turbo HD1, Discovery Turbo HD2, Discovery Turbo HD3, Discovery Turbo HD4 (+2) | meuguia.tv | 45 programas, 24.0 h das próximas 24 h |
+| `discoveryworld` | Discovery World HD1, Discovery World HD2, Discovery World HD3, Discovery World HD4 (+3) | meuguia.tv | 78 programas, 24.0 h das próximas 24 h |
+| `espn` | ESPN 1 HD1, ESPN 1 HD2, ESPN 1 HD3, ESPN 1 HD4 (+2) | meuguia.tv | 29 programas, 24.0 h das próximas 24 h |
+| `espn2` | ESPN 2 HD1, ESPN 2 HD2, ESPN 2 HD3, ESPN 2 HD4 (+2) | meuguia.tv | 28 programas, 24.0 h das próximas 24 h |
+| `espn3` | ESPN 3 HD1, ESPN 3 HD2, ESPN 3 HD3, ESPN 3 HD4 (+2) | meuguia.tv | 27 programas, 24.0 h das próximas 24 h |
+| `espn4` | ESPN 4 HD1, ESPN 4 HD2, ESPN 4 HD3, ESPN 4 HD4 (+2) | meuguia.tv | 28 programas, 24.0 h das próximas 24 h |
+| `espn5` | ESPN 5 HD1, ESPN 5 HD2, ESPN 5 HD3, ESPN 5 HD4 (+2) | meuguia.tv | 25 programas, 24.0 h das próximas 24 h |
 | `espn6` | ESPN 6 HD1, ESPN 6 HD2, ESPN 6 HD3, ESPN 6 HD4 (+2) | guiadetv.com | 22 programas, 24.0 h das próximas 24 h |
-| `foodnetwork` | Food Network HD1, Food Network HD2, Food Network HD3, Food Network HD4 (+2) | mi.tv | 69 programas, 25.0 h das próximas 24 h |
+| `foodnetwork` | Food Network HD1, Food Network HD2, Food Network HD3, Food Network HD4 (+2) | guiadetv.com | 70 programas, 24.0 h das próximas 24 h |
 | `globodf` | GLOBO DF HD1, GLOBO DF HD2, GLOBO DF HD3, GLOBO DF HD4 (+2) | — | SEM GUIA (nenhum site tem este canal) |
 | `globoes` | GLOBO ES HD1, GLOBO ES HD2, GLOBO ES HD3, GLOBO ES HD4 | — | SEM GUIA (nenhum site tem este canal) |
 | `globomg` | GLOBO MG HD1, GLOBO MG HD2, GLOBO MG HD3, GLOBO MG HD4 (+1) | — | SEM GUIA (nenhum site tem este canal) |
-| `globonews` | Globo News HD1, Globo News HD2, Globo News HD3, Globo News HD4 (+1) | meuguia.tv | 19 programas, 24.0 h das próximas 24 h |
-| `globorj` | GLOBO RJ HD1, GLOBO RJ HD2, GLOBO RJ HD3, GLOBO RJ HD4 (+2) | mi.tv | 41 programas, 25.0 h das próximas 24 h |
+| `globonews` | Globo News HD1, Globo News HD2, Globo News HD3, Globo News HD4 (+1) | meuguia.tv | 26 programas, 24.0 h das próximas 24 h |
+| `globorj` | GLOBO RJ HD1, GLOBO RJ HD2, GLOBO RJ HD3, GLOBO RJ HD4 (+2) | mi.tv | 38 programas, 23.5 h das próximas 24 h |
 | `globors` | GLOBO RS HD1, GLOBO RS HD2, GLOBO RS HD3, GLOBO RS HD4 (+2) | — | SEM GUIA (nenhum site tem este canal) |
-| `globosp` | GLOBO SP HD1, GLOBO SP HD2, GLOBO SP HD3, GLOBO SP HD4 (+2) | mi.tv | 41 programas, 25.0 h das próximas 24 h |
-| `gloob` | GLooB HD1, GLooB HD2, GLooB HD3, GLooB HD4 (+2) | mi.tv | 44 programas, 25.0 h das próximas 24 h |
-| `gloobinho` | GLooBinho HD1, GLooBinho HD2, GLooBinho HD3, GLooBinho HD4 | mi.tv | 143 programas, 25.0 h das próximas 24 h |
-| `gnt` | GNT HD1, GNT HD2, GNT HD3, GNT HD4 (+3) | mi.tv | 42 programas, 25.0 h das próximas 24 h |
-| `hbo` | HBO HD1, HBO HD2, HBO HD3, HBO HD4 (+2) | mi.tv | 27 programas, 25.0 h das próximas 24 h |
-| `hbo2` | HBO 2 HD1, HBO 2 HD2, HBO 2 HD3, HBO 2 HD4 (+2) | mi.tv | 24 programas, 25.0 h das próximas 24 h |
-| `hbofamily` | HBO Family HD1, HBO Family HD2, HBO Family HD3, HBO Family HD4 (+2) | mi.tv | 27 programas, 25.0 h das próximas 24 h |
+| `globosp` | GLOBO SP HD1, GLOBO SP HD2, GLOBO SP HD3, GLOBO SP HD4 (+2) | mi.tv | 38 programas, 23.5 h das próximas 24 h |
+| `gloob` | GLooB HD1, GLooB HD2, GLooB HD3, GLooB HD4 (+2) | meuguia.tv | 41 programas, 24.0 h das próximas 24 h |
+| `gloobinho` | GLooBinho HD1, GLooBinho HD2, GLooBinho HD3, GLooBinho HD4 | guiadetv.com | 146 programas, 24.0 h das próximas 24 h |
+| `gnt` | GNT HD1, GNT HD2, GNT HD3, GNT HD4 (+3) | meuguia.tv | 45 programas, 24.0 h das próximas 24 h |
+| `hbo` | HBO HD1, HBO HD2, HBO HD3, HBO HD4 (+2) | mi.tv | 28 programas, 24.3 h das próximas 24 h |
+| `hbo2` | HBO 2 HD1, HBO 2 HD2, HBO 2 HD3, HBO 2 HD4 (+2) | mi.tv | 25 programas, 24.1 h das próximas 24 h |
+| `hbofamily` | HBO Family HD1, HBO Family HD2, HBO Family HD3, HBO Family HD4 (+2) | mi.tv | 28 programas, 24.9 h das próximas 24 h |
 | `hbomax` | HBO MAX HD1, HBO MAX HD10, HBO MAX HD11, HBO MAX HD12 (+15) | — | SEM GUIA (nenhum site tem este canal) |
-| `hbomundi` | HBO Mundi HD1, HBO Mundi HD2, HBO Mundi HD3, HBO Mundi HD4 (+1) | mi.tv | 22 programas, 25.0 h das próximas 24 h |
-| `hboplus` | HBO Plus HD1, HBO Plus HD2, HBO Plus HD3, HBO Plus HD4 (+2) | mi.tv | 6 programas, 25.0 h das próximas 24 h |
-| `hbopop` | HBO Pop HD1, HBO Pop HD2, HBO Pop HD3, HBO Pop HD4 (+2) | mi.tv | 24 programas, 25.0 h das próximas 24 h |
-| `hbosignature` | HBO Signature HD1, HBO Signature HD2, HBO Signature HD3, HBO Signature HD4 | mi.tv | 18 programas, 25.0 h das próximas 24 h |
-| `hboxtreme` | HBO Xtreme HD1, HBO Xtreme HD2, HBO Xtreme HD3, HBO Xtreme HD4 (+2) | mi.tv | 22 programas, 25.0 h das próximas 24 h |
-| `hgtv` | HGTV HD1, HGTV HD2, HGTV HD3, HGTV HD4 (+3) | mi.tv | 66 programas, 24.3 h das próximas 24 h |
-| `history` | History HD1, History HD2, History HD3, History HD4 (+2) | guiadetv.com | 50 programas, 24.0 h das próximas 24 h |
-| `history2` | History 2 HD1, History 2 HD2, History 2 HD3, History 2 HD4 (+2) | mi.tv | 38 programas, 25.0 h das próximas 24 h |
+| `hbomundi` | HBO Mundi HD1, HBO Mundi HD2, HBO Mundi HD3, HBO Mundi HD4 (+1) | mi.tv | 22 programas, 24.4 h das próximas 24 h |
+| `hboplus` | HBO Plus HD1, HBO Plus HD2, HBO Plus HD3, HBO Plus HD4 (+2) | mi.tv | 6 programas, 24.4 h das próximas 24 h |
+| `hbopop` | HBO Pop HD1, HBO Pop HD2, HBO Pop HD3, HBO Pop HD4 (+2) | guiadetv.com | 22 programas, 24.0 h das próximas 24 h |
+| `hbosignature` | HBO Signature HD1, HBO Signature HD2, HBO Signature HD3, HBO Signature HD4 | mi.tv | 22 programas, 24.4 h das próximas 24 h |
+| `hboxtreme` | HBO Xtreme HD1, HBO Xtreme HD2, HBO Xtreme HD3, HBO Xtreme HD4 (+2) | mi.tv | 23 programas, 24.0 h das próximas 24 h |
+| `hgtv` | HGTV HD1, HGTV HD2, HGTV HD3, HGTV HD4 (+3) | guiadetv.com | 72 programas, 24.0 h das próximas 24 h |
+| `history` | History HD1, History HD2, History HD3, History HD4 (+2) | guiadetv.com | 49 programas, 24.0 h das próximas 24 h |
+| `history2` | History 2 HD1, History 2 HD2, History 2 HD3, History 2 HD4 (+2) | guiadetv.com | 50 programas, 24.0 h das próximas 24 h |
 | `jovempannews` | Jovem Pan News HD1, Jovem Pan News HD2, Jovem Pan News HD3 | guiadetv.com | 21 programas, 24.0 h das próximas 24 h |
-| `megapix` | MEGAPIX HD1, MEGAPIX HD2, MEGAPIX HD3, MEGAPIX HD4 (+2) | mi.tv | 21 programas, 25.0 h das próximas 24 h |
-| `premiere` | PREMIERE HD1, PREMIERE HD2, PREMIERE HD3, PREMIERE HD4 (+2) | mi.tv | 34 programas, 24.5 h das próximas 24 h |
+| `megapix` | MEGAPIX HD1, MEGAPIX HD2, MEGAPIX HD3, MEGAPIX HD4 (+2) | mi.tv | 20 programas, 24.3 h das próximas 24 h |
+| `premiere` | PREMIERE HD1, PREMIERE HD2, PREMIERE HD3, PREMIERE HD4 (+2) | meuguia.tv | 67 programas, 24.0 h das próximas 24 h |
 | `premiere2` | PREMIERE 2 HD1, PREMIERE 2 HD2, PREMIERE 2 HD3, PREMIERE 2 HD4 (+2) | guiadetv.com | 2 programas, 24.0 h das próximas 24 h |
 | `premiere3` | PREMIERE 3 HD1, PREMIERE 3 HD2, PREMIERE 3 HD3, PREMIERE 3 HD4 (+2) | guiadetv.com | 2 programas, 24.0 h das próximas 24 h |
 | `premiere4` | PREMIERE 4 HD1, PREMIERE 4 HD2, PREMIERE 4 HD3, PREMIERE 4 HD4 (+2) | guiadetv.com | 1 programas, 24.0 h das próximas 24 h |
 | `premiere5` | PREMIERE 5 HD1, PREMIERE 5 HD2, PREMIERE 5 HD3, PREMIERE 5 HD4 (+2) | guiadetv.com | 1 programas, 24.0 h das próximas 24 h |
-| `premiere6` | PREMIERE 6 HD1, PREMIERE 6 HD2, PREMIERE 6 HD3, PREMIERE 6 HD4 (+2) | mi.tv | 4 programas, 25.0 h das próximas 24 h |
+| `premiere6` | PREMIERE 6 HD1, PREMIERE 6 HD2, PREMIERE 6 HD3, PREMIERE 6 HD4 (+2) | guiadetv.com | 1 programas, 24.0 h das próximas 24 h |
 | `premiere7` | PREMIERE 7 HD1, PREMIERE 7 HD2, PREMIERE 7 HD3, PREMIERE 7 HD4 (+2) | guiadetv.com | 1 programas, 24.0 h das próximas 24 h |
 | `premiere8` | PREMIERE 8 HD1, PREMIERE 8 HD2, PREMIERE 8 HD3, PREMIERE 8 HD4 (+1) | mi.tv | 2 programas, 2.5 h das próximas 24 h |
 | `primevideo` | PRIME VIDEO HD1, PRIME VIDEO HD10, PRIME VIDEO HD11, PRIME VIDEO HD12 (+17) | — | SEM GUIA (nenhum site tem este canal) |
 | `recordmg` | RECORD MG HD1, RECORD MG HD2, RECORD MG HD3 | — | SEM GUIA (nenhum site tem este canal) |
-| `recordnews` | Record News HD1, Record News HD2, Record News HD3, Record News HD4 | meuguia.tv | 37 programas, 24.0 h das próximas 24 h |
+| `recordnews` | Record News HD1, Record News HD2, Record News HD3, Record News HD4 | meuguia.tv | 47 programas, 24.0 h das próximas 24 h |
 | `recordrj` | RECORD RJ HD1, RECORD RJ HD2, RECORD RJ HD3, RECORD RJ HD4 | — | SEM GUIA (nenhum site tem este canal) |
 | `recordsp` | RECORD SP HD1, RECORD SP HD2, RECORD SP HD3, RECORD SP HD4 (+3) | — | SEM GUIA (nenhum site tem este canal) |
-| `redetv` | REDETV HD1, REDETV HD2, REDETV HD3, REDETV HD4 | meuguia.tv | 24 programas, 24.0 h das próximas 24 h |
+| `redetv` | REDETV HD1, REDETV HD2, REDETV HD3, REDETV HD4 | meuguia.tv | 29 programas, 24.0 h das próximas 24 h |
 | `sbtsp` | SBT SP HD1, SBT SP HD2, SBT SP HD3, SBT SP HD4 (+3) | — | SEM GUIA (nenhum site tem este canal) |
-| `sony` | SONY HD1, SONY HD2, SONY HD3, SONY HD4 (+2) | mi.tv | 23 programas, 24.5 h das próximas 24 h |
-| `space` | SPACE HD1, SPACE HD2, SPACE HD3, SPACE HD4 (+1) | mi.tv | 27 programas, 25.0 h das próximas 24 h |
-| `sportv` | SPORTV HD1, SPORTV HD2, SPORTV HD3, SPORTV HD4 (+2) | mi.tv | 42 programas, 24.5 h das próximas 24 h |
-| `sportv2` | SPORTV 2 HD1, SPORTV 2 HD2, SPORTV 2 HD3, SPORTV 2 HD4 (+2) | mi.tv | 14 programas, 25.0 h das próximas 24 h |
-| `sportv3` | SPORTV 3 HD1, SPORTV 3 HD2, SPORTV 3 HD3, SPORTV 3 HD4 (+2) | mi.tv | 25 programas, 25.0 h das próximas 24 h |
-| `studiouniversal` | Studio Universal HD1, Studio Universal HD2, Studio Universal HD3, Studio Universal HD4 (+2) | mi.tv | 25 programas, 25.0 h das próximas 24 h |
-| `telecineaction` | TELECINE ACTION HD1, TELECINE ACTION HD2, TELECINE ACTION HD3, TELECINE ACTION HD4 (+2) | mi.tv | 22 programas, 25.0 h das próximas 24 h |
-| `telecinecult` | TELECINE CULT HD1, TELECINE CULT HD2, TELECINE CULT HD3, TELECINE CULT HD4 (+2) | mi.tv | 20 programas, 25.0 h das próximas 24 h |
-| `telecinefun` | TELECINE FUN HD1, TELECINE FUN HD2, TELECINE FUN HD3, TELECINE FUN HD4 (+2) | mi.tv | 26 programas, 25.0 h das próximas 24 h |
-| `telecinepipoca` | TELECINE PIPOCA HD1, TELECINE PIPOCA HD2, TELECINE PIPOCA HD3, TELECINE PIPOCA HD4 (+2) | mi.tv | 22 programas, 25.0 h das próximas 24 h |
-| `telecinepremium` | TELECINE PREMIUM HD1, TELECINE PREMIUM HD2, TELECINE PREMIUM HD3, TELECINE PREMIUM HD4 (+2) | mi.tv | 23 programas, 25.0 h das próximas 24 h |
-| `telecinetouch` | TELECINE TOUCH HD1, TELECINE TOUCH HD2, TELECINE TOUCH HD3, TELECINE TOUCH HD4 (+2) | mi.tv | 22 programas, 25.0 h das próximas 24 h |
-| `tnt` | TNT HD1, TNT HD2, TNT HD3, TNT HD4 (+2) | mi.tv | 22 programas, 25.0 h das próximas 24 h |
-| `tntnovelas` | TNT Novelas HD1, TNT Novelas HD2, TNT Novelas HD3, TNT Novelas HD4 (+2) | guiadetv.com | 41 programas, 24.0 h das próximas 24 h |
-| `tntseries` | TNT Series HD1, TNT Series HD2, TNT Series HD3, TNT Series HD4 (+2) | mi.tv | 18 programas, 25.0 h das próximas 24 h |
+| `sony` | SONY HD1, SONY HD2, SONY HD3, SONY HD4 (+2) | meuguia.tv | 23 programas, 24.0 h das próximas 24 h |
+| `space` | SPACE HD1, SPACE HD2, SPACE HD3, SPACE HD4 (+1) | meuguia.tv | 25 programas, 24.0 h das próximas 24 h |
+| `sportv` | SPORTV HD1, SPORTV HD2, SPORTV HD3, SPORTV HD4 (+2) | meuguia.tv | 43 programas, 24.0 h das próximas 24 h |
+| `sportv2` | SPORTV 2 HD1, SPORTV 2 HD2, SPORTV 2 HD3, SPORTV 2 HD4 (+2) | meuguia.tv | 23 programas, 24.0 h das próximas 24 h |
+| `sportv3` | SPORTV 3 HD1, SPORTV 3 HD2, SPORTV 3 HD3, SPORTV 3 HD4 (+2) | mi.tv | 24 programas, 25.0 h das próximas 24 h |
+| `studiouniversal` | Studio Universal HD1, Studio Universal HD2, Studio Universal HD3, Studio Universal HD4 (+2) | mi.tv | 26 programas, 24.5 h das próximas 24 h |
+| `telecineaction` | TELECINE ACTION HD1, TELECINE ACTION HD2, TELECINE ACTION HD3, TELECINE ACTION HD4 (+2) | mi.tv | 22 programas, 24.8 h das próximas 24 h |
+| `telecinecult` | TELECINE CULT HD1, TELECINE CULT HD2, TELECINE CULT HD3, TELECINE CULT HD4 (+2) | mi.tv | 21 programas, 24.5 h das próximas 24 h |
+| `telecinefun` | TELECINE FUN HD1, TELECINE FUN HD2, TELECINE FUN HD3, TELECINE FUN HD4 (+2) | mi.tv | 27 programas, 24.2 h das próximas 24 h |
+| `telecinepipoca` | TELECINE PIPOCA HD1, TELECINE PIPOCA HD2, TELECINE PIPOCA HD3, TELECINE PIPOCA HD4 (+2) | mi.tv | 22 programas, 24.6 h das próximas 24 h |
+| `telecinepremium` | TELECINE PREMIUM HD1, TELECINE PREMIUM HD2, TELECINE PREMIUM HD3, TELECINE PREMIUM HD4 (+2) | mi.tv | 24 programas, 24.5 h das próximas 24 h |
+| `telecinetouch` | TELECINE TOUCH HD1, TELECINE TOUCH HD2, TELECINE TOUCH HD3, TELECINE TOUCH HD4 (+2) | mi.tv | 24 programas, 24.4 h das próximas 24 h |
+| `tnt` | TNT HD1, TNT HD2, TNT HD3, TNT HD4 (+2) | meuguia.tv | 21 programas, 24.0 h das próximas 24 h |
+| `tntnovelas` | TNT Novelas HD1, TNT Novelas HD2, TNT Novelas HD3, TNT Novelas HD4 (+2) | guiadetv.com | 46 programas, 24.0 h das próximas 24 h |
+| `tntseries` | TNT Series HD1, TNT Series HD2, TNT Series HD3, TNT Series HD4 (+2) | meuguia.tv | 17 programas, 24.0 h das próximas 24 h |
 | `todomundoodeiaochris2` | Todo Mundo Odeia o Chris 2 | — | SEM GUIA (nenhum site tem este canal) |
 | `todomundoodeiaochris3` | Todo Mundo Odeia o Chris 3 | — | SEM GUIA (nenhum site tem este canal) |
-| `universal` | Universal HD1, Universal HD2, Universal HD3, Universal HD4 (+2) | mi.tv | 21 programas, 25.0 h das próximas 24 h |
+| `universal` | Universal HD1, Universal HD2, Universal HD3, Universal HD4 (+2) | mi.tv | 20 programas, 23.7 h das próximas 24 h |
 
 Canal SEM GUIA: coloque `"epg": "nome do canal no site"` no canais.json, ou force o site_id no ajustes.json.
 
 ## Jogos de futebol (jogos.json)
 
-32 jogo(s) ao vivo de hoje e amanhã (site jogosdehojenatv: 53 jogo(s) lido(s)).
+34 jogo(s) ao vivo de hoje e amanhã (site jogosdehojenatv: 39 jogo(s) lido(s)).
 
 | Quando (Brasília) | Jogo | Campeonato | Canais | Escudos |
 |---|---|---|---|---|
-| 24/11 14:45 | Bodø/Glimt x LASK | UEFA Champions League | space, hbomax | falta Bodø/Glimt |
-| 24/11 14:45 | Galatasaray x Aston Villa | UEFA Champions League | hbomax | ok |
-| 24/11 15:15 | Al-Nassr x Al-Sadd | AFC Champions League | espn4 | falta Al-Sadd |
-| 24/11 16:00 | Atlético-MG x Boca Juniors | Copa Sul-Americana | espn | ok |
-| 24/11 17:00 | Arsenal FC x Borussia Dortmund | UEFA Champions League | hbomax | ok |
-| 24/11 17:00 | Como x AEK Athens | UEFA Champions League | hbomax | ok |
-| 24/11 17:00 | Feyenoord x Porto | UEFA Champions League | hbomax | ok |
-| 24/11 17:00 | Manchester City x Napoli | UEFA Champions League | space, hbomax | ok |
-| 24/11 17:00 | RB Leipzig x Lens | UEFA Champions League | hbomax | ok |
-| 24/11 17:00 | Real Madrid x PSV | UEFA Champions League | hbomax, sbtsp | ok |
-| 24/11 17:00 | Slovan Bratislava x Real Betis | UEFA Champions League | hbomax | ok |
-| 24/11 17:00 | Wolverhampton Wanderers x Derby County | Campeonato Inglés 2 D | espn | ok |
-| 24/11 18:00 | Chapecoense x Palmeiras | Campeonato Brasileiro | premiere, cazetv, recordsp | ok |
-| 24/11 21:20 | São Paulo x Atlético-MG | Copa do Brasil de Futebol Sub-20 | sportv | ok |
-| 24/11 21:30 | São Paulo AP U20 x Atlético Mineiro Sub-20 | Copa do Brasil Sub-20 | sportv | ok |
-| 25/11 04:00 | Trabzonspor x Eyüpspor | Campeonato Turco de Futebol | espn | ok |
-| 25/11 11:00 | Newcastle United x Arsenal | Premier League | espn | ok |
-| 25/11 14:45 | Sabah x FC Barcelona | UEFA Champions League | hbomax | ok |
-| 25/11 14:45 | Slavia Praha x Villarreal | UEFA Champions League | space, hbomax | falta Slavia Praha |
+| 25/11 14:45 | Sabah x Barcelona | UEFA Champions League | tnt, hbomax | ok |
+| 25/11 14:45 | Slavia Praga x Villarreal | UEFA Champions League | space, hbomax | falta Slavia Praga |
 | 25/11 14:50 | Corinthians x Ação | — | recordnews | falta Ação |
 | 25/11 15:00 | Sporting de Huelva x Levante Las Planas | Copa De La Reina | espn2 | ok |
+| 25/11 16:15 | Bayern de Munique x Colônia | — | sportv | falta Colônia |
 | 25/11 17:00 | Atletico Madrid x Viking | UEFA Champions League | hbomax | ok |
 | 25/11 17:00 | Club Brugge x Liverpool FC | UEFA Champions League | hbomax | ok |
 | 25/11 17:00 | Inter x VfB Stuttgart | UEFA Champions League | hbomax | ok |
 | 25/11 17:00 | Lille x Bayern München | UEFA Champions League | space, hbomax | ok |
-| 25/11 17:00 | PSG x Roma | UEFA Champions League | hbomax | ok |
+| 25/11 17:00 | PSG x Roma | UEFA Champions League | tnt, hbomax | ok |
 | 25/11 17:00 | Shakhtar Donetsk x Fenerbahçe | UEFA Champions League | hbomax | ok |
 | 25/11 17:00 | Sporting CP x Manchester United | UEFA Champions League | hbomax | ok |
 | 25/11 17:00 | Stoke City x Millwall | Campeonato Inglés 2 D | espn4 | ok |
-| 25/11 19:55 | Palmeiras x Operário-PR | Copa do Brasil de Futebol Sub-20 | sportv | ok |
-| 25/11 20:00 | Atlético-MG x Corinthians | Campeonato Brasileiro | premiere | ok |
+| 25/11 20:00 | Atlético-MG x Corinthians | Brasileirão Série A | premiere | ok |
 | 25/11 20:50 | Boca Juniors x Independiente Rivadavia | — | espn4 | ok |
+| 26/11 14:45 | Ajax x Thun | Liga da Conferência Europeia | cazetv | ok |
+| 26/11 14:45 | Brighton & Hove Albion x Universitatea Craiova | Liga da Conferência Europeia | cazetv | falta Universitatea Craiova |
+| 26/11 14:45 | Celta de Vigo x AFC Bournemouth | Liga Europa | cazetv | ok |
+| 26/11 14:45 | Dinamo Zagreb x Bayer Leverkusen | Liga Europa | cazetv | ok |
+| 26/11 14:45 | FC Iberia 1999 x Getafe | Liga da Conferência Europeia | cazetv | ok |
+| 26/11 14:45 | Hearts x Monaco | Liga da Conferência Europeia | cazetv | ok |
+| 26/11 14:45 | Olympiakos Piraeus x AC Milan | Liga Europa | cazetv | falta Olympiakos Piraeus |
+| 26/11 14:45 | Olympique Marseille x Levski Sofia | Liga Europa | cazetv | ok |
+| 26/11 14:45 | Viktoria Plzeň x Benfica | Liga Europa | cazetv | ok |
+| 26/11 17:00 | Borac Banja Luka x Atalanta | Liga da Conferência Europeia | cazetv | ok |
+| 26/11 17:00 | Crystal Palace x Real Sociedad | Liga Europa | cazetv | ok |
+| 26/11 17:00 | Freiburg x FC Twente | Liga da Conferência Europeia | cazetv | ok |
+| 26/11 17:00 | Juventus x Omonia Nicosia | Liga Europa | cazetv | ok |
+| 26/11 17:00 | Lyon x Lillestrøm | Liga Europa | cazetv | falta Lillestrøm |
+| 26/11 17:00 | Sparta Praha x AZ | Liga Europa | cazetv | ok |
+| 26/11 17:00 | Sporting Braga x KuPS | Liga da Conferência Europeia | cazetv | falta Sporting Braga |
+| 26/11 17:00 | Sunderland x Jagiellonia Białystok | Liga Europa | cazetv | ok |
+| 26/11 17:00 | TSG 1899 Hoffenheim x Sturm Graz | Liga Europa | cazetv | ok |
+| 26/11 20:00 | São Paulo x Remo | Brasileirão Série A | premiere, premiere2, premiere3, premiere4, premiere5, premiere6, premiere7, premiere8 | ok |
 
 **Lives do YouTube** (CAZE TV HD):
 
@@ -143,7 +145,10 @@ Canal SEM GUIA: coloque `"epg": "nome do canal no site"` no canais.json, ou forc
 
 **Times sem escudo** — coloque no `escudos.json` (`"escudos": {"Nome do time": "https://.../escudo.png"}`):
 
-- Al-Sadd
 - Ação
-- Bodø/Glimt
-- Slavia Praha
+- Colônia
+- Lillestrøm
+- Olympiakos Piraeus
+- Slavia Praga
+- Sporting Braga
+- Universitatea Craiova
